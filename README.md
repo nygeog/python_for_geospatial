@@ -1,2 +1,2 @@
-# python_for_geospatial
+# Python for Geospatial
 Python for Geospatial Meetup Group 
